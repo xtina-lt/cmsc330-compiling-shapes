@@ -1,0 +1,4 @@
+Scene Polygons (500, 500)
+RightTriangle Color (234, 242, 215) 
+Text Color(203, 238, 243) at (300, 200) "UNICORN MAGIC";
+End.
